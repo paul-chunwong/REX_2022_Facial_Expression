@@ -1,6 +1,24 @@
 # REX_2022
 
 Papers:
+Parkinson related:
+Limitation of facial recognition in Parkinson's:
+1. factors like age-related differences, cultural differences and the method of data analysis can affect recognizing and predicting PD in facial expression processing.
+- https://arxiv.org/pdf/2012.06563.pdf
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6868040/
+- https://iopscience.iop.org/article/10.1088/1742-6596/1937/1/012058/pdf
+- https://www.sciencedirect.com/science/article/pii/S0165027017300481
+2. facial expressions are highly correlated to the severity of the disease. Patients with PD often show dull expressions in the middle and late stage. 
+- https://www.sciencedirect.com/science/article/pii/S0885230821000887 
+
+Others:
+How mental disorders affect facial expression accuracy(if parkinson's data is not accessible):
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0015058
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8493300/
+- https://onlinelibrary.wiley.com/doi/full/10.1111/j.1399-5618.2004.00121.x?casa_token=lgp[…]D2PJ-rzcJ0bN5Hv5_iSQVSJvUhDgo9URNrzAvCmjjkzbQlTQ022NbnVgI
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2932776/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8316620/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4277603/ 
 
 Next_week
 
