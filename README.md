@@ -1,5 +1,8 @@
 # REX_2022
 
+Tasks for upcoming week:
+
+
 Papers:
 
 Parkinson related:
@@ -23,7 +26,6 @@ How mental disorders affect facial expression accuracy(if parkinson's data is no
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8316620/
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4277603/ 
 
-Next_week
 
 Code Resources:
 - (Open Pose Tutorial): https://www.youtube.com/watch?v=4FZrE3cmTPA&list=PL_Nji0JOuXg24bHB60SB2TwF0PpwhJkCF&index=2
