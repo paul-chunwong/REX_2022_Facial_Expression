@@ -1,6 +1,7 @@
 # REX_2022
 
 Tasks for upcoming week:
+Research topic: Can we use online pictures and videos to detect early symptoms of motor disorders in patients? 
 
 
 Papers:
