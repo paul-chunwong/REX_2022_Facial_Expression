@@ -2,6 +2,7 @@
 
 Tasks for upcoming week:
 - Research topic: Can we use online pictures and videos to detect early symptoms of motor disorders in patients? 
+- Can we compare the accuracy with facial expression recognition in normal people, and use it as an indicator of the risk first?
 
 
 Papers:
