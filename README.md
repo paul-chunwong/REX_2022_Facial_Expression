@@ -13,7 +13,7 @@ Papers:
 Parkinson related:
 
 Limitation of facial recognition in Parkinson's:
-1. factors like age-related differences, cultural differences and the method of data analysis can affect recognizing and predicting PD in facial expression processing.
+1. factors like age-related differences, cultural differences and the method of data analysis can affect recognizing and predicting PD in facial expression processing. (possible solution: instead of recognizing a particular disease, we can predict a more generic mental disorder disease based on the evaluation.)
 - https://arxiv.org/pdf/2012.06563.pdf
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6868040/
 - https://iopscience.iop.org/article/10.1088/1742-6596/1937/1/012058/pdf
