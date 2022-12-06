@@ -3,7 +3,7 @@
 Tasks for upcoming week:
 - Have meeting in the weekend to finalize the literature review.
 - Research topic: Can we use online pictures and videos to detect early symptoms of motor disorders in patients? 
-- Research topic: Can we compare the accuracy with facial expression recognition in normal people, and use it as an indicator of the risk first?
+- Approach: Can we compare the accuracy with facial expression recognition in normal people, and use it as an indicator of the risk first?
 - Provide research literature review, will need to submit it to REX on next week.
 - Find out the limitation of the current research.
 
