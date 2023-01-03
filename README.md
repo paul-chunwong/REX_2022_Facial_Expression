@@ -1,6 +1,15 @@
 # REX_2022
 
 Tasks for upcoming week:
+- Write workflow
+- Data Collection
+- Deepface speed optimization
+- pandas dataframe for filtering data
+- statistic for result
+
+
+
+DONE:
 - Have meeting in the weekend to finalize the literature review.
 - Research topic: Can we use online pictures and videos to detect early symptoms of motor disorders in patients? 
 - Approach: Can we compare the accuracy with facial expression recognition in normal people, and use it as an indicator of the risk first?
