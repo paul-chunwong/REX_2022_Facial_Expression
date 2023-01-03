@@ -2,7 +2,7 @@
 
 Tasks for upcoming week:
 - Write workflow
-- Data Collection
+- Data Collection for both normal and abnormal ppl
 - Deepface speed optimization
 - pandas dataframe for filtering data
 - statistic for result
