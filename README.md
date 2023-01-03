@@ -21,6 +21,7 @@ Abstract:
 
 Help writing papers:
 - https://medium.com/nerd-for-tech/deep-face-recognition-in-python-41522fb47028
+- https://osf.io/dashboard
 
 Parkinson related:
 
