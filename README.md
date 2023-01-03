@@ -7,6 +7,8 @@ Tasks for upcoming week:
 - Provide research literature review, will need to submit it to REX on next week.
 - Find out the limitation of the current research.
 
+Abstract:
+- https://docs.google.com/document/d/1dmmE--VwOc0T7PapOv-us6ZdQmqF4DJjhlztl6qpwNU/edit
 
 Papers:
 
