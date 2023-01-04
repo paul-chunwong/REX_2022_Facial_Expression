@@ -1,11 +1,12 @@
 # REX_2022
 
 Tasks for upcoming week:
-- Write workflow
-- Data Collection for both normal and abnormal ppl
-- Deepface speed optimization
-- pandas dataframe for filtering data
-- statistic for result
+- Write workflow (Z & P)
+- Data Collection for both normal and abnormal ppl (Z & P)
+- Deepface speed optimization (Z & P)
+- pandas dataframe for filtering data (Z & P)
+- machine learning using decision tree algorithm with sklearn framework (my friend)
+- statistical for the result (Anna & my friend)
 
 
 
