@@ -1,6 +1,11 @@
 from deepface import DeepFace
-from deepface.basemodels import VGGFace
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
+import numpy as np
+import math
+import numba
+from numba import jit, njit, vectorize, cuda, uint32, f8, uint8
+from pylab import imshow, show
+from timeit import default_timer as timer
 import os
 import time
 import pandas as pd
@@ -17,12 +22,10 @@ except ImportError:
     # Pillow
     from PIL import Image
 
-def process_image(img_path,i):
+# function optimized to run on gpu 
+@jit(target_backend='cuda')  
+def process_image(img_path,i,img_filename):
     print ("Processing image...")
-
-    # Open the image
-    img=Image.open(img_path)
-    img.show()
 
     #Do the processing
     #facial analysis
@@ -32,10 +35,13 @@ def process_image(img_path,i):
     
     #Saving the data
     temp=pd.DataFrame(percentage_emotion,index=[i])
+    #temp_df=temp.insert(1,"Parkinson","0")
     temp_df = temp.reindex(columns = temp.columns.tolist() + ["Parkinson"])
     temp_df["Parkinson"]=temp_df["Parkinson"].fillna(0)
+    temp_final=temp_df.reindex(columns = temp_df.columns.tolist() + ["img_filename"])
+    temp_final["img_filename"]=img_filename
     new_df=pd.read_excel(excel_file, sheet_name='Sheet',index_col=0)
-    df=temp_df.append(new_df,ignore_index=True)
+    df=temp_final.append(new_df,ignore_index=True)
     print(df)
 
     #Export the data to the excel
@@ -45,8 +51,6 @@ def process_image(img_path,i):
     #Save the excel file
     writer.save()
 
-    #Close the images
-    img.close()
 
 images_dir="C:/Users/ChrisRA/Desktop/URO_2022/deepface/Image"
 excel_dir="C:/Users/ChrisRA/Desktop/URO_2022/deepface/Excel"
@@ -69,6 +73,8 @@ if __name__ == "__main__":
 
     for img_filename in images_list:
         img_path = os.path.join(images_dir, img_filename)
-        process_image(img_path,i)
+        start=timer()
+        process_image(img_path,i,img_filename)
+        print("with GPU:", timer()-start)
         i=i+1
 
