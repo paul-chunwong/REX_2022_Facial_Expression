@@ -52,6 +52,11 @@ Code Resources:
 - (Open Pose Tutorial): https://www.youtube.com/watch?v=4FZrE3cmTPA&list=PL_Nji0JOuXg24bHB60SB2TwF0PpwhJkCF&index=2
 
 
+Hardware:
+- My setup: CPU: AMD Ryzen 5 3600X; Display Card: NVIDIA GeForce RTX 3070 Ti; RAM: 32gb ddr4 ram 3600mhz
+- Possible: I have RTX TITAN 24GB and RTX 3090 Ti, even A6000 computer.
+
+
 
 Data Set:
 
