@@ -31,7 +31,9 @@ def process_image(img_path,i):
     percentage_emotion=demography["emotion"]
     
     #Saving the data
-    temp_df=pd.DataFrame(percentage_emotion,index=[i])
+    temp=pd.DataFrame(percentage_emotion,index=[i])
+    temp_df = temp.reindex(columns = temp.columns.tolist() + ["Parkinson"])
+    temp_df["Parkinson"]=temp_df["Parkinson"].fillna(0)
     new_df=pd.read_excel(excel_file, sheet_name='Sheet',index_col=0)
     df=temp_df.append(new_df,ignore_index=True)
     print(df)
