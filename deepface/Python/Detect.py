@@ -2,6 +2,7 @@ from deepface import DeepFace
 from matplotlib import pyplot as plt
 import numpy as np
 import math
+import csv
 import numba
 from numba import jit, njit, vectorize, cuda, uint32, f8, uint8
 from pylab import imshow, show
@@ -35,7 +36,6 @@ def process_image(img_path,i,img_filename):
     
     #Saving the data
     temp=pd.DataFrame(percentage_emotion,index=[i])
-    #temp_df=temp.insert(1,"Parkinson","0")
     temp_df = temp.reindex(columns = temp.columns.tolist() + ["Parkinson"])
     temp_df["Parkinson"]=temp_df["Parkinson"].fillna(0)
     temp_final=temp_df.reindex(columns = temp_df.columns.tolist() + ["img_filename"])
@@ -48,6 +48,9 @@ def process_image(img_path,i,img_filename):
     writer=pd.ExcelWriter(excel_file,engine='xlsxwriter')
     df.to_excel(writer,sheet_name='Sheet')
 
+    #Convert the data from excel to csv file
+    df.to_csv(csv_file,index=None, header=True)
+
     #Save the excel file
     writer.save()
 
@@ -55,7 +58,7 @@ def process_image(img_path,i,img_filename):
 images_dir="C:/Users/ChrisRA/Desktop/URO_2022/deepface/Image"
 excel_dir="C:/Users/ChrisRA/Desktop/URO_2022/deepface/Excel"
 excel_file="C:/Users/ChrisRA/Desktop/URO_2022/deepface/Excel/Data.xlsx"
-
+csv_file="C:/Users/ChrisRA/Desktop/URO_2022/deepface/Excel/Data.csv"
 
 if not os.path.exists(excel_dir):
     os.makedirs(excel_dir)
