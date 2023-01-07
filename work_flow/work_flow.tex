@@ -1,0 +1,78 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{positioning,arrows.meta,spy}
+
+\definecolor{arrowblue}{RGB}{98,145,224}
+
+\newcommand\ImageNode[3][]{
+  \node[draw=arrowblue!80!black,line width=1pt,#1] (#2) {\includegraphics[width=1.5cm,height=1.5cm]{#3}};
+  }
+
+\begin{document}
+\begin{tikzpicture}[
+  spy using outlines={
+    magnification=4, 
+    size=1.5cm, 
+    connect spies
+  },
+  node distance=1.5cm,
+  >={Triangle[angle=60:1pt 2]},
+  shorten >= 2pt,
+  shorten <= 2pt,
+  arrow/.style={
+    ->,
+    arrowblue,
+    line width=5pt
+  },
+  aux/.style={
+    text width=1.5cm,
+    minimum height=1.75cm,
+    draw=arrowblue!80!black,
+    line width=1pt
+  }
+]
+
+\ImageNode[label={-90:Normal Image Sample}]{A}{img1.png}
+\ImageNode[right=of A]{B}{deepface-icon-labeled.png}
+\ImageNode[label={-90:Detected}, above right=of B]{C}{img1_detect.png}
+\ImageNode[label={0:Probabilities for Emotion}, below right=of B]{D}{prob_final.png}
+\ImageNode[label={-90:Sklearn Model},below=of D]{E}{ML.png}
+\ImageNode[label={-90:Range for Normal},right=of E]{H}{range.png}
+\ImageNode[label={-90:Potential Patients},below left=of E]{F}{img3.png}
+\ImageNode[below right=of E]{G}{deepface-icon-labeled.png}
+\ImageNode[label={0:Probabilities for Emotion}, below =of G]{K}{prob.png}
+\ImageNode[label={-90:Parkinson Disease},below left=of K]{I}{img3.png}
+\ImageNode[label={-90:Not Parkinson Disease},below right=of K]{J}{img3.png}
+
+\draw[arrow]
+  (A) -- node[above,text=black] {Input} (B);
+
+\draw[arrow]
+  (B)--(C);
+
+\draw[arrow]
+  (B)--node[above right,text=black]{output}(D);
+
+\draw[arrow]
+  (D)--node[right, text=black]{Tranning}(E);
+
+\draw[arrow]
+  (F)--node[above, text=black]{Input}(G);
+
+\draw[arrow]
+  (E)--node[above, text=black]{Output}(H);
+
+\draw[arrow]
+  (K)--node[above left, text=black]{Out of Range}(I);
+
+\draw[arrow]
+  (K)--node[above right, text=black]{In Range}(J);
+
+\draw[arrow]
+  (G)--node[right, text=black]{Output}(K); 
+
+\end{tikzpicture}
+
+
+\end{document}
