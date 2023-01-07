@@ -1,14 +1,14 @@
 # REX_2022
 
-Tasks for upcoming week:
-- Revise and improve the details of the abstract (A & A)
-- Try to write up the template for the remaining paragraphs in the paper such as methodology, can leave the data empty for now (A & A)
-- Write workflow (Z & P)
-- Data Collection for both normal and abnormal ppl (Z & P)
-- Deepface speed optimization (Z & P)
-- pandas dataframe for filtering data (Z & P)
-- machine learning using decision tree algorithm with sklearn framework (my friend)
-- result and conclusion in statistical meaning (Anna & my friend) (edited) 
+Tasks for the upcoming week (updated on Jan 6):
+- Revise and improve the details of the abstract (A & A done)
+- Try to write up the template for the remaining paragraphs in the paper such as methodology, can leave the data empty for now (A & A working)
+- Write workflow (Z & P done)
+- Data Collection for both normal and abnormal ppl (Z & P working but almost done)
+- Deepface speed optimization (Z & P done)
+- pandas dataframe for filtering data (Z & P done)
+- machine learning using decision tree algorithm with sklearn framework (my friend working)
+- result and conclusion in statistical meaning (Anna & my friend not yet started) (edited)
 
 
 
