@@ -19,14 +19,6 @@ focus on the next two coming days:
 
 
 
-11:02
-focus on the next two coming days:
-write up the template for the remaining paragraphs in the paper (A & A)
-run data + get emotion values (P)
-machine learning using decision tree algorithm with sklearn framework (my friend)
-
-
-
 DONE:
 - Have meeting in the weekend to finalize the literature review.
 - Research topic: Can we use online pictures and videos to detect early symptoms of motor disorders in patients? 
