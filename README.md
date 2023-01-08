@@ -10,6 +10,21 @@ Tasks for the upcoming week (updated on Jan 6):
 - machine learning using decision tree algorithm with sklearn framework (my friend working)
 - result and conclusion in statistical meaning (Anna & my friend not yet started) (edited)
 
+focus on the next two coming days:
+- write up the template for the remaining paragraphs in the paper (A & A)
+- run data + get emotion values (P)
+- machine learning using decision tree algorithm with sklearn framework (my friend)
+
+
+
+
+
+11:02
+focus on the next two coming days:
+write up the template for the remaining paragraphs in the paper (A & A)
+run data + get emotion values (P)
+machine learning using decision tree algorithm with sklearn framework (my friend)
+
 
 
 DONE:
