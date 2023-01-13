@@ -1,8 +1,8 @@
 # REX_2022
 
-Tasks for the upcoming week (updated on Jan 8):
+Tasks for the upcoming week (updated on Jan 12):
 - Revise and improve the details of the abstract (A & A done)
-- Try to write up the template for the remaining paragraphs in the paper such as methodology, can leave the data empty for now (A & A working but almost done)
+- Try to write up the template for the remaining paragraphs in the paper such as methodology, can leave the data empty for now (A & A done)
 - Write workflow (Z & P done)
 - Data Collection for both normal and abnormal ppl (Z & P working but almost done)
 - Deepface speed optimization (Z & P done)
