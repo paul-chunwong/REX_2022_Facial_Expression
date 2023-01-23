@@ -2,6 +2,8 @@
 
 Tasks for the upcoming week (updated on Jan 22):
 - Focus on method
+- My friend, Lyka Wang, the person who does the ML part is now in this github repo
+
 
 Done:
 - Revise and improve the details of the abstract (A & A done)
