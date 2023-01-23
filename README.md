@@ -2,6 +2,8 @@
 
 Tasks for the upcoming week (updated on Jan 22):
 - Focus on method
+- My friend, Lyka Wang, the person who does the ML part is now in this github repo
+
 
 Done:
 - Revise and improve the details of the abstract (A & A done)
@@ -16,11 +18,7 @@ Done:
 - run data + get emotion values (P done)
 - machine learning using decision tree algorithm with sklearn framework (my friend done)
 
-
-
-
-
-DONE:
+Done:
 - Have meeting in the weekend to finalize the literature review.
 - Research topic: Can we use online pictures and videos to detect early symptoms of motor disorders in patients? 
 - Approach: Can we compare the accuracy with facial expression recognition in normal people, and use it as an indicator of the risk first?
