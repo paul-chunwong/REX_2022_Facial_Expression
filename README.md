@@ -1,18 +1,24 @@
 # REX_2022
 
-Tasks for upcoming week:
-- Revise and improve the details of the abstract (A & A)
-- Try to write up the template for the remaining paragraphs in the paper such as methodology, can leave the data empty for now (A & A)
-- Write workflow (Z & P)
-- Data Collection for both normal and abnormal ppl (Z & P)
-- Deepface speed optimization (Z & P)
-- pandas dataframe for filtering data (Z & P)
-- machine learning using decision tree algorithm with sklearn framework (my friend)
-- result and conclusion in statistical meaning (Anna & my friend) (edited) 
+Tasks for the upcoming week (updated on Jan 22):
+- Focus on method
+- My friend, Lyka Wang, the person who does the ML part is now in this github repo
 
 
+Done:
+- Revise and improve the details of the abstract (A & A done)
+- Try to write up the template for the remaining paragraphs in the paper such as methodology, can leave the data empty for now (A & A done)
+- Write workflow (Z & P done)
+- Data Collection for both normal and abnormal ppl (Z & P done)
+- Deepface speed optimization (Z & P done)
+- pandas dataframe for filtering data (Z & P done)
+- machine learning using decision tree algorithm with sklearn framework (my friend Done)
+- result and conclusion in statistical meaning (Anna & my friend not yet started)
+- write up the template for the remaining paragraphs in the paper (A & A done)
+- run data + get emotion values (P done)
+- machine learning using decision tree algorithm with sklearn framework (my friend done)
 
-DONE:
+Done:
 - Have meeting in the weekend to finalize the literature review.
 - Research topic: Can we use online pictures and videos to detect early symptoms of motor disorders in patients? 
 - Approach: Can we compare the accuracy with facial expression recognition in normal people, and use it as an indicator of the risk first?
@@ -21,6 +27,9 @@ DONE:
 
 Abstract:
 - https://docs.google.com/document/d/1dmmE--VwOc0T7PapOv-us6ZdQmqF4DJjhlztl6qpwNU/edit
+
+Main paper: 
+- https://docs.google.com/document/d/1-u4XFWJjHWnzD40yFFj9TyUYooPIxXLkOaCmwqGCnf4/edit
 
 Help writing papers:
 - https://medium.com/nerd-for-tech/deep-face-recognition-in-python-41522fb47028

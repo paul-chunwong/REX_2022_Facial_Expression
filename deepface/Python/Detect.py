@@ -31,7 +31,7 @@ def process_image(img_path,i,img_filename):
     #Do the processing
     #facial analysis
     attributes=['emotion']
-    demography=DeepFace.analyze(img_path,actions=attributes)
+    demography=DeepFace.analyze(img_path,actions=attributes,enforce_detection = False)
     percentage_emotion=demography["emotion"]
     
     #Saving the data
