@@ -1,11 +1,12 @@
 # REX_2022
 
-Tasks for the upcoming week (updated on Jan 22):
-- Focus on method
-- My friend, Lyka Wang, the person who does the ML part is now in this github repo
+Tasks for the upcoming week (updated on Mar 7):
+- Prepare for the conference (P & A)
 
 
 Done:
+- Focus on method
+- My friend, Lyka Wang, the person who does the ML part is now in this github repo
 - Revise and improve the details of the abstract (A & A done)
 - Try to write up the template for the remaining paragraphs in the paper such as methodology, can leave the data empty for now (A & A done)
 - Write workflow (Z & P done)
