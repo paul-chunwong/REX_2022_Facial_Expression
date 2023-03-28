@@ -1,8 +1,5 @@
 # REX_2022
 
-Tasks for the upcoming week (updated on Mar 7):
-- Prepare for the conference (P & A)
-
 
 Done:
 - Focus on method
@@ -18,8 +15,6 @@ Done:
 - write up the template for the remaining paragraphs in the paper (A & A done)
 - run data + get emotion values (P done)
 - machine learning using decision tree algorithm with sklearn framework (my friend done)
-
-Done:
 - Have meeting in the weekend to finalize the literature review.
 - Research topic: Can we use online pictures and videos to detect early symptoms of motor disorders in patients? 
 - Approach: Can we compare the accuracy with facial expression recognition in normal people, and use it as an indicator of the risk first?
