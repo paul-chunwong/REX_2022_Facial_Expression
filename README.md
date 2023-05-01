@@ -1,6 +1,6 @@
 # REX_2022
 
-NEXT:
+NEXT (updated on May 1, 2023):
 - Reading & Literature Review:
 - Based on the existing current literature reviews, further investigate and summarize previous research related to the topic, especially for the methodology part.
 - Further identify gaps in the literature that the proposed research will address
@@ -17,7 +17,7 @@ Expected Outcomes (end of AUG, 2023):
 - Ideally, increase the research sample size from ~650 to ~2000 by building more collaborations with the Beijing Tiantan Hospital and an open-source database
 - Finish the journal paper with good quality and submit it to journals such as Nature Digital Medicine. 
 
-
+----------------------------------------------------------------------------------------------------------
 
 Done:
 - Focus on method
