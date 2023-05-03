@@ -4,6 +4,7 @@ TODO (updated on May 2, 2023):
 - Literature Review (backgrounds), inculding methods for 1) online medical assistance 2) ML methods for similar application 3) Mentor Disorder (A & A)
 - Further identify gaps in the literature that the proposed research will address
 - Paper format (template + example papers), graphs (what kind of data for ML, what kind of graphs), citation (A & A): https://www.nature.com/npjdigitalmed/for-authors-and-referees?gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyawQcM_TnONnmqWpV9OwU7Q7Y8wroWkJb7MNDCPnCyHehEHh64x_48aAsLcEALw_wcB
+- https://www.nature.com/npjdigitalmed/for-authors-and-referees/submission-guidelines#format-manuscripts
 - Explain how the data will be analyzed and interpreted, LATER (A & A)
 - Data collection: 1) Beijing Hosipital (Lyka) 2) Open-source (everyone), record the source 3) Ask Michael (Paul)
 - CHECK IF POSSIBLE: Identify the population (color skins, countries) and sample for the study (A & A)
