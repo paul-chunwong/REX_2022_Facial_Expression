@@ -4,6 +4,10 @@ NEXT (updated on May 1, 2023):
 - Reading & Literature Review:
 - Based on the existing current literature reviews, further investigate and summarize previous research related to the topic, especially for the methodology part.
 - Further identify gaps in the literature that the proposed research will address
+- Format: https://www.nature.com/npjdigitalmed/for-authors-and-referees/guide-to-authors
+https://www.nature.com/npjdigitalmed/for-authors-and-referees/submission-guidelines#format-manuscripts
+
+
 
 Methodology:
 - Research design: Investigate other machine learning algorithms (supervised learning) to improve the current ML model.
