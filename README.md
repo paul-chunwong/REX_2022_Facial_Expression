@@ -12,7 +12,7 @@ Methodology:
 - Explain how the data will be analyzed and interpreted.
 - Data and graphs will be filtered and interpreted using Python Panda Dataframe & Excel.
 
-Expected Outcomes (end of AUG, 2023):
+Expected Outcomes (end of July, 2023):
 - Investigate and implement other machine learning algorithms that can improve the model’s accuracy with a balance of performance and speed.
 - Ideally, increase the research sample size from ~650 to ~2000 by building more collaborations with the Beijing Tiantan Hospital and an open-source database
 - Finish the journal paper with good quality and submit it to journals such as Nature Digital Medicine. 
