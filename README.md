@@ -8,7 +8,7 @@ TODO (updated on May 2, 2023):
 - https://www.nature.com/npjdigitalmed/for-authors-and-referees/submission-guidelines#format-manuscripts
 - Explain how the data will be analyzed and interpreted, such as Hume AI, LATER (A & A)
 - Data collection: 1) Beijing Hosipital (Lyka) 2) Open-source (everyone), record the source 3) Ask Michael (Paul) -> hide raw patient data, but we could release processed 3D meshed data
-- CHECK IF POSSIBLE: Identify the population (color skins, countries) and sample for the study (A & A)
+- CHECK IF POSSIBLE: Identify the population (color skins, countries) and sample for the study (A & A) -> For now, Asians
 - Improve the patent’s consent form to avoid unnecessary trouble in the future (Lyka)
 - Data and graphs will be filtered and interpreted using Python Panda Dataframe & Excel (Chris)
 - Investigate other machine learning algorithms (supervised learning) to improve the current ML model based on Deepface (Paul)
