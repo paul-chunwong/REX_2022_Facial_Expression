@@ -1,5 +1,5 @@
 # REX_2022
-TODO (updated on May 2, 2023):
+TODO (updated on May 14, 2023):
 - Start Jounal draft ASAP (A & A)
 - Literature Review (backgrounds), inculding methods for 1) online medical assistance 2) ML methods for similar application 3) Mentor Disorder (A & A)
 - Explain how the data will be analyzed and interpreted, such as Hume AI, LATER (A & A)
