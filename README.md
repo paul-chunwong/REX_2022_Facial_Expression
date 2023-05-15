@@ -1,18 +1,25 @@
 # REX_2022
 TODO (updated on May 2, 2023):
-- Target journal: ***** Nature Digital Medicine *****
-- Start Jounal draft ASAP
+- Start Jounal draft ASAP (A & A)
 - Literature Review (backgrounds), inculding methods for 1) online medical assistance 2) ML methods for similar application 3) Mentor Disorder (A & A)
+- Explain how the data will be analyzed and interpreted, such as Hume AI, LATER (A & A)
 - Further identify gaps in the literature that the proposed research will address
 - Paper format (template + example papers), graphs (what kind of data for ML, what kind of graphs), citation (A & A): https://www.nature.com/npjdigitalmed/for-authors-and-referees?gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyawQcM_TnONnmqWpV9OwU7Q7Y8wroWkJb7MNDCPnCyHehEHh64x_48aAsLcEALw_wcB
 - https://www.nature.com/npjdigitalmed/for-authors-and-referees/submission-guidelines#format-manuscripts
-- Explain how the data will be analyzed and interpreted, such as Hume AI, LATER (A & A)
-- Data collection: 1) Beijing Hosipital (Lyka) 2) Open-source (everyone), record the source 3) Ask Michael (Paul) 4) Baidu, use current patient picture to search more patient data from baidu search -> hide raw patient data, but we could release processed 3D meshed data
+- ----------------------------------------------------------------------------------------------------
+- Investigate other machine learning algorithms (supervised learning) to improve the current ML model based on Deepface (Paul)
+- ML implementation (Paul & Chris)
+----------------------------------------------------------------------------------------------------
+- Data collection: 1) Beijing Hosipital (Lyka) 2) Open-source (Chris), record the source
+- ----------------------------------------------------------------------------------------------------
+- Not important for now:
+- Target journal: ***** Nature Digital Medicine *****
+ 3) Ask Michael (Paul) 4) Baidu, use current patient picture to search more patient data from baidu search -> hide raw patient data, but we could release processed 3D meshed data
 - CHECK IF POSSIBLE: Identify the population (color skins, countries) and sample for the study (A & A) -> For now, Asians
 - Improve the patent’s consent form to avoid unnecessary trouble in the future (Lyka)
 - Data and graphs will be filtered and interpreted using Python Panda Dataframe & Excel (Chris)
-- Investigate other machine learning algorithms (supervised learning) to improve the current ML model based on Deepface (Paul)
-- ML implementation (Paul & Chris)
+
+
 
 ----------------------------------------------------------------------------------------------------------
 
