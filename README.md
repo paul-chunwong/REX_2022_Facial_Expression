@@ -1,11 +1,51 @@
 # REX_2022
+TODO (updated on May 14, 2023):
+- Start Jounal draft ASAP (A & A)
+- Literature Review (backgrounds), inculding methods for 1) online medical assistance 2) ML methods for similar application 3) Mentor Disorder (A & A)
+- Explain how the data will be analyzed and interpreted, such as Hume AI, LATER (A & A)
+- Further identify gaps in the literature that the proposed research will address
+- Paper format (template + example papers), graphs (what kind of data for ML, what kind of graphs), citation (A & A): https://www.nature.com/npjdigitalmed/for-authors-and-referees?gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyawQcM_TnONnmqWpV9OwU7Q7Y8wroWkJb7MNDCPnCyHehEHh64x_48aAsLcEALw_wcB
+- https://www.nature.com/npjdigitalmed/for-authors-and-referees/submission-guidelines#format-manuscripts
+- ----------------------------------------------------------------------------------------------------
+- Investigate other machine learning algorithms (supervised learning) to improve the current ML model based on Deepface (Paul)
+- ML implementation (Paul & Chris)
+----------------------------------------------------------------------------------------------------
+- Data collection: 1) Beijing Hosipital (Lyka) 2) Open-source (Chris), record the source
+- ----------------------------------------------------------------------------------------------------
+- Not important for now:
+- Target journal: ***** Nature Digital Medicine *****
+ 3) Ask Michael (Paul) 4) Baidu, use current patient picture to search more patient data from baidu search -> hide raw patient data, but we could release processed 3D meshed data
+- CHECK IF POSSIBLE: Identify the population (color skins, countries) and sample for the study (A & A) -> For now, Asians
+- Improve the patent’s consent form to avoid unnecessary trouble in the future (Lyka)
+- Data and graphs will be filtered and interpreted using Python Panda Dataframe & Excel (Chris)
 
-Tasks for the upcoming week (updated on Jan 22):
-- Focus on method
-- My friend, Lyka Wang, the person who does the ML part is now in this github repo
 
+
+----------------------------------------------------------------------------------------------------------
+
+
+NEXT (updated on May 1, 2023):
+- Reading & Literature Review:
+- Based on the existing current literature reviews, further investigate and summarize previous research related to the topic, especially for the methodology part.
+- Further identify gaps in the literature that the proposed research will address
+
+Methodology:
+- Research design: Investigate other machine learning algorithms (supervised learning) to improve the current ML model.
+- Data collection methods: Active collaboration with Beijing Tiantan Hospital to collect patent data. Further improve the patent’s consent form to avoid unnecessary trouble in the future. Open-source database for training and testing data sets.
+- Identify the population and sample for the study: Will try to increase the current population sample size.
+- Explain how the data will be analyzed and interpreted.
+- Data and graphs will be filtered and interpreted using Python Panda Dataframe & Excel.
+
+Expected Outcomes (end of July, 2023):
+- Investigate and implement other machine learning algorithms that can improve the model’s accuracy with a balance of performance and speed.
+- Ideally, increase the research sample size from ~650 to ~2000 by building more collaborations with the Beijing Tiantan Hospital and an open-source database
+- Finish the journal paper with good quality and submit it to journals such as Nature Digital Medicine. 
+
+----------------------------------------------------------------------------------------------------------
 
 Done:
+- Focus on method
+- My friend, Lyka Wang, the person who does the ML part is now in this github repo
 - Revise and improve the details of the abstract (A & A done)
 - Try to write up the template for the remaining paragraphs in the paper such as methodology, can leave the data empty for now (A & A done)
 - Write workflow (Z & P done)
@@ -17,8 +57,6 @@ Done:
 - write up the template for the remaining paragraphs in the paper (A & A done)
 - run data + get emotion values (P done)
 - machine learning using decision tree algorithm with sklearn framework (my friend done)
-
-Done:
 - Have meeting in the weekend to finalize the literature review.
 - Research topic: Can we use online pictures and videos to detect early symptoms of motor disorders in patients? 
 - Approach: Can we compare the accuracy with facial expression recognition in normal people, and use it as an indicator of the risk first?
@@ -27,6 +65,9 @@ Done:
 
 Abstract:
 - https://docs.google.com/document/d/1dmmE--VwOc0T7PapOv-us6ZdQmqF4DJjhlztl6qpwNU/edit
+
+Main paper: 
+- https://docs.google.com/document/d/1-u4XFWJjHWnzD40yFFj9TyUYooPIxXLkOaCmwqGCnf4/edit
 
 Help writing papers:
 - https://medium.com/nerd-for-tech/deep-face-recognition-in-python-41522fb47028
