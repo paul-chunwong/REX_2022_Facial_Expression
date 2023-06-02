@@ -1,5 +1,5 @@
 # REX_2022
-TODO (updated on May 14, 2023):
+TODO (updated on Jun 2, 2023):
 - Start Jounal draft ASAP (A & A)
 - Literature Review (backgrounds), inculding methods for 1) online medical assistance 2) ML methods for similar application 3) Mentor Disorder (A & A)
 - Explain how the data will be analyzed and interpreted, such as Hume AI, LATER (A & A)
@@ -7,8 +7,8 @@ TODO (updated on May 14, 2023):
 - Paper format (template + example papers), graphs (what kind of data for ML, what kind of graphs), citation (A & A): https://www.nature.com/npjdigitalmed/for-authors-and-referees?gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyawQcM_TnONnmqWpV9OwU7Q7Y8wroWkJb7MNDCPnCyHehEHh64x_48aAsLcEALw_wcB
 - https://www.nature.com/npjdigitalmed/for-authors-and-referees/submission-guidelines#format-manuscripts
 - ----------------------------------------------------------------------------------------------------
-- Investigate other machine learning algorithms (supervised learning) to improve the current ML model based on Deepface (Paul)
-- ML implementation (Paul & Chris)
+- Investigate other machine learning algorithms (supervised learning) to improve the current ML model based on Deepface (DONE Paul & Chris) 
+- ML implementation (DONE Paul & Chris)
 ----------------------------------------------------------------------------------------------------
 - Data collection: 1) Beijing Hosipital (Lyka) 2) Open-source (Chris), record the source
 - ----------------------------------------------------------------------------------------------------
