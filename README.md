@@ -1,16 +1,16 @@
 # REX_2022
-TODO (updated on Jun 2, 2023):
-- Start Jounal draft ASAP (A & A)
+TODO (updated on Jun 3, 2023):
+- Start Jounal draft ASAP (DONE A & A) 
 - Literature Review (backgrounds), inculding methods for 1) online medical assistance 2) ML methods for similar application 3) Mentor Disorder (A & A)
 - Explain how the data will be analyzed and interpreted, such as Hume AI, LATER (A & A)
-- Further identify gaps in the literature that the proposed research will address
-- Paper format (template + example papers), graphs (what kind of data for ML, what kind of graphs), citation (A & A): https://www.nature.com/npjdigitalmed/for-authors-and-referees?gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyawQcM_TnONnmqWpV9OwU7Q7Y8wroWkJb7MNDCPnCyHehEHh64x_48aAsLcEALw_wcB
-- https://www.nature.com/npjdigitalmed/for-authors-and-referees/submission-guidelines#format-manuscripts
+- Further identify gaps in the literature that the proposed research will address (DONE A)
+- Paper format (template + example papers), graphs (what kind of data for ML, what kind of graphs), citation (DONE A & A): https://www.nature.com/npjdigitalmed/for-authors-and-referees?gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyawQcM_TnONnmqWpV9OwU7Q7Y8wroWkJb7MNDCPnCyHehEHh64x_48aAsLcEALw_wcB
+- https://www.nature.com/npjdigitalmed/for-authors-and-referees/submission-guidelines#format-manuscripts 
 - ----------------------------------------------------------------------------------------------------
 - Investigate other machine learning algorithms (supervised learning) to improve the current ML model based on Deepface (DONE Paul & Chris) 
 - ML implementation (DONE Paul & Chris)
 ----------------------------------------------------------------------------------------------------
-- Data collection: 1) Beijing Hosipital (Lyka) 2) Open-source (Chris), record the source
+- Data collection: 1) Beijing Hosipital (DONE Lyka) 2) Open-source (P & C), record the source
 - ----------------------------------------------------------------------------------------------------
 - Not important for now:
 - Target journal: ***** Nature Digital Medicine *****
