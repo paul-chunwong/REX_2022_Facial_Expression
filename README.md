@@ -1,14 +1,15 @@
 # REX_2022
-TODO (updated on Jun 24, 2023):
+TODO (updated on Oct 25, 2023):
 
 - Citation Method Update
-- Logistic Regression in Matlab
+- Machine Learning Methods Updates
 - Graphs 
 - Result
-- 
+- Discussion & Limitation
+
 
 - ----------------------------------------------------------------------------------------------------
-- Start Jounal draft ASAP (DONE A & A) 
+- Start Jounal draft  (DONE A & A) 
 - Literature Review (backgrounds), inculding methods for 1) online medical assistance 2) ML methods for similar application 3) Mentor Disorder (A & A)
 - Explain how the data will be analyzed and interpreted, such as Hume AI, LATER (A & A)
 - Further identify gaps in the literature that the proposed research will address (DONE A)
