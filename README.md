@@ -6,6 +6,8 @@ TODO (updated on Oct 25, 2023):
 - Graphs 
 - Result
 - Discussion & Limitation
+- Finish the journal paper with good quality and submit it to journals such as Nature Digital Medicine. 
+
 
 
 - ----------------------------------------------------------------------------------------------------
@@ -41,14 +43,10 @@ NEXT (updated on May 1, 2023):
 Methodology:
 - Research design: Investigate other machine learning algorithms (supervised learning) to improve the current ML model.
 - Data collection methods: Active collaboration with Beijing Tiantan Hospital to collect patent data. Further improve the patent’s consent form to avoid unnecessary trouble in the future. Open-source database for training and testing data sets.
-- Identify the population and sample for the study: Will try to increase the current population sample size.
 - Explain how the data will be analyzed and interpreted.
 - Data and graphs will be filtered and interpreted using Python Panda Dataframe & Excel.
 
 Expected Outcomes (end of July, 2023):
-- Investigate and implement other machine learning algorithms that can improve the model’s accuracy with a balance of performance and speed.
-- Ideally, increase the research sample size from ~650 to ~2000 by building more collaborations with the Beijing Tiantan Hospital and an open-source database
-- Finish the journal paper with good quality and submit it to journals such as Nature Digital Medicine. 
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -71,6 +69,13 @@ Done:
 - Approach: Can we compare the accuracy with facial expression recognition in normal people, and use it as an indicator of the risk first?
 - Provide research literature review, will need to submit it to REX on next week.
 - Find out the limitation of the current research.
+
+- Investigate and implement other machine learning algorithms that can improve the model’s accuracy with a balance of performance and speed.
+- Ideally, increase the research sample size from ~650 to ~2000 by building more collaborations with the Beijing Tiantan Hospital and an open-source database (for the Beijing Hospital, yes)
+- Identify the population and sample for the study: Will try to increase the current population sample size.
+
+
+
 
 Abstract:
 - https://docs.google.com/document/d/1dmmE--VwOc0T7PapOv-us6ZdQmqF4DJjhlztl6qpwNU/edit
